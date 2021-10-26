@@ -1,0 +1,73 @@
+[33mcommit 57ad0789b2fe93b10ffb835966ef23aff979710e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: f0116ac eac74fe
+Author: edumoyano86 <cba2486@gmail.com>
+Date:   Tue Oct 26 00:29:18 2021 -0300
+
+    Solucione el conflicto entre las ramas
+
+[33mcommit f0116acd4bf0877e725894afa9f4f41f2b554e9e[m
+Author: edumoyano86 <cba2486@gmail.com>
+Date:   Tue Oct 26 00:19:36 2021 -0300
+
+    Agregue cosas al master
+
+[33mcommit eac74fec974493420afe11dc9fb7079eb9c7a7d3[m[33m ([m[1;32mcabecera[m[33m)[m
+Author: edumoyano86 <cba2486@gmail.com>
+Date:   Tue Oct 26 00:16:54 2021 -0300
+
+    Modifique la cabecera y el color del texto
+
+[33mcommit 0b87d83bcf2baf765e312e000cffa3452f1ff5f5[m
+Author: edumoyano86 <cba2486@gmail.com>
+Date:   Tue Oct 26 00:10:18 2021 -0300
+
+    Volvi a una tipografia menos controversial
+
+[33mcommit 159fb06c8b42a7dbcc13c3e7bf6714b597c97927[m
+Merge: 6145781 50082e3
+Author: edumoyano86 <cba2486@gmail.com>
+Date:   Tue Oct 26 00:02:33 2021 -0300
+
+    Merge branch 'cabecera'
+
+[33mcommit 61457819888348a78328c9fcbf54e353167bc86d[m
+Author: edumoyano86 <cba2486@gmail.com>
+Date:   Mon Oct 25 23:59:24 2021 -0300
+
+    Agregado el contenido adicional del blog
+
+[33mcommit 50082e33ff1947d4c6cc0db3c8a36b7b36503b0e[m
+Author: edumoyano86 <cba2486@gmail.com>
+Date:   Mon Oct 25 23:53:01 2021 -0300
+
+    Finalizada la cabecera con diseño azul
+
+[33mcommit a053311b7032227ea45541f5962f735ff1b586b6[m
+Author: edumoyano86 <cba2486@gmail.com>
+Date:   Mon Oct 25 23:34:06 2021 -0300
+
+    Estructura incial de la cabecera
+
+[33mcommit b99b696aa929a30a74075544ad21039b69627bdf[m
+Author: edumoyano86 <cba2486@gmail.com>
+Date:   Mon Oct 25 23:23:32 2021 -0300
+
+    Commit al master del blogpost en su version mas reciente
+
+[33mcommit f79dd8eab5dd52d3439d2ebb2cb108899d7d0092[m
+Author: edumoyano86 <cba2486@gmail.com>
+Date:   Mon Oct 25 23:03:09 2021 -0300
+
+    Arranco mi proyecto real con html y css
+
+[33mcommit 0896990c8436bb42db4fc51774dd040b5ce9b424[m
+Author: edumoyano86 <cba2486@gmail.com>
+Date:   Mon Oct 25 21:46:46 2021 -0300
+
+    Cambios al archivo de historia
+
+[33mcommit 1f850b1765626191406d2e050c126d590412d1c9[m
+Author: edumoyano86 <cba2486@gmail.com>
+Date:   Mon Oct 25 21:40:22 2021 -0300
+
+    Este es el primer commit
